@@ -1,0 +1,139 @@
+line 135 - INFO: Start processing 201805020632_WW01
+/home/lun/Desktop/software/anaconda2/lib/python2.7/site-packages/obspy/taup/tau_branch.py:496: UserWarning: Resizing a TauP array inplace failed due to the existence of other references to the array, creating a new array. See Obspy #2280.
+  warnings.warn(msg)
+line 242 - INFO: snr not high enough, continue
+line 135 - INFO: Start processing 201805042232_WW01
+line 135 - INFO: Start processing 201805050619_WW01
+line 179 - INFO: distance 101.9 is not within range (30.0,95.0), continue
+line 135 - INFO: Start processing 201805180145_WW01
+line 242 - INFO: snr not high enough, continue
+line 135 - INFO: Start processing 201806212113_WW01
+line 135 - INFO: Start processing 201807060140_WW01
+line 135 - INFO: Start processing 201807072133_WW01
+line 135 - INFO: Start processing 201807130946_WW01
+line 135 - INFO: Start processing 201807150157_WW01
+line 179 - INFO: distance 168.0 is not within range (30.0,95.0), continue
+line 135 - INFO: Start processing 201807151309_WW01
+line 179 - INFO: distance 168.1 is not within range (30.0,95.0), continue
+line 135 - INFO: Start processing 201807170702_WW01
+line 135 - INFO: Start processing 201807191830_WW01
+line 135 - INFO: Start processing 201807231035_WW01
+line 179 - INFO: distance 115.4 is not within range (30.0,95.0), continue
+line 135 - INFO: Start processing 201807281707_WW01
+line 179 - INFO: distance 101.9 is not within range (30.0,95.0), continue
+line 135 - INFO: Start processing 201807282247_WW01
+line 179 - INFO: distance 108.0 is not within range (30.0,95.0), continue
+line 135 - INFO: Start processing 201808051146_WW01
+line 179 - INFO: distance 108.0 is not within range (30.0,95.0), continue
+line 135 - INFO: Start processing 201808121458_WW01
+line 242 - INFO: snr not high enough, continue
+line 135 - INFO: Start processing 201808122115_WW01
+line 242 - INFO: snr not high enough, continue
+line 135 - INFO: Start processing 201808140329_WW01
+line 179 - INFO: distance 96.9 is not within range (30.0,95.0), continue
+line 135 - INFO: Start processing 201808152156_WW01
+line 135 - INFO: Start processing 201808161822_WW01
+line 242 - INFO: snr not high enough, continue
+line 135 - INFO: Start processing 201808101812_WW01
+line 242 - INFO: snr not high enough, continue
+line 135 - INFO: Start processing 201808280708_WW01
+line 179 - INFO: distance 100.1 is not within range (30.0,95.0), continue
+line 135 - INFO: Start processing 201810102045_WW01
+line 135 - INFO: Start processing 201811111403_WW01
+line 242 - INFO: snr not high enough, continue
+line 135 - INFO: Start processing 201808171535_WW01
+line 179 - INFO: distance 104.8 is not within range (30.0,95.0), continue
+line 135 - INFO: Start processing 201808190410_WW01
+line 179 - INFO: distance 107.9 is not within range (30.0,95.0), continue
+line 135 - INFO: Start processing 201808190428_WW01
+line 135 - INFO: Start processing 201808191456_WW01
+line 179 - INFO: distance 107.8 is not within range (30.0,95.0), continue
+line 135 - INFO: Start processing 201808212131_WW01
+line 135 - INFO: Start processing 201808212232_WW01
+line 135 - INFO: Start processing 201808220931_WW01
+line 135 - INFO: Start processing 201808230335_WW01
+line 135 - INFO: Start processing 201808240904_WW01
+line 135 - INFO: Start processing 201808251650_WW01
+line 135 - INFO: Start processing 201808252213_WW01
+line 179 - INFO: distance 149.3 is not within range (30.0,95.0), continue
+line 135 - INFO: Start processing 201808282235_WW01
+line 135 - INFO: Start processing 201808290351_WW01
+line 135 - INFO: Start processing 201809051807_WW01
+line 135 - INFO: Start processing 201809061549_WW01
+line 135 - INFO: Start processing 201809070212_WW01
+line 135 - INFO: Start processing 201809080716_WW01
+line 179 - INFO: distance 99.2 is not within range (30.0,95.0), continue
+line 135 - INFO: Start processing 201809091931_WW01
+line 135 - INFO: Start processing 201809100419_WW01
+line 135 - INFO: Start processing 201809101931_WW01
+line 135 - INFO: Start processing 201809162111_WW01
+line 135 - INFO: Start processing 201809180727_WW01
+line 179 - INFO: distance 138.4 is not within range (30.0,95.0), continue
+line 135 - INFO: Start processing 201809280659_WW01
+line 179 - INFO: distance 105.4 is not within range (30.0,95.0), continue
+line 135 - INFO: Start processing 201809281002_WW01
+line 179 - INFO: distance 105.4 is not within range (30.0,95.0), continue
+line 135 - INFO: Start processing 201809301052_WW01
+line 135 - INFO: Start processing 201810090745_WW01
+line 135 - INFO: Start processing 201810101844_WW01
+line 179 - INFO: distance 110.1 is not within range (30.0,95.0), continue
+line 135 - INFO: Start processing 201810102048_WW01
+line 135 - INFO: Start processing 201810102200_WW01
+line 135 - INFO: Start processing 201810131110_WW01
+line 242 - INFO: snr not high enough, continue
+line 135 - INFO: Start processing 201810160103_WW01
+line 135 - INFO: Start processing 201810220539_WW01
+line 135 - INFO: Start processing 201810220616_WW01
+line 242 - INFO: snr not high enough, continue
+line 135 - INFO: Start processing 201810220622_WW01
+line 242 - INFO: snr not high enough, continue
+line 135 - INFO: Start processing 201810252254_WW01
+line 179 - INFO: distance 139.5 is not within range (30.0,95.0), continue
+line 135 - INFO: Start processing 201810282223_WW01
+line 242 - INFO: snr not high enough, continue
+line 135 - INFO: Start processing 201810290654_WW01
+line 135 - INFO: Start processing 201810300213_WW01
+line 135 - INFO: Start processing 201811012219_WW01
+line 135 - INFO: Start processing 201811021101_WW01
+line 135 - INFO: Start processing 201811040755_WW01
+line 179 - INFO: distance 101.8 is not within range (30.0,95.0), continue
+line 135 - INFO: Start processing 201811090149_WW01
+line 179 - INFO: distance 103.7 is not within range (30.0,95.0), continue
+line 135 - INFO: Start processing 201811100833_WW01
+line 135 - INFO: Start processing 201811142121_WW01
+line 135 - INFO: Start processing 201811152002_WW01
+line 179 - INFO: distance 97.2 is not within range (30.0,95.0), continue
+line 135 - INFO: Start processing 201811160326_WW01
+line 135 - INFO: Start processing 201811182025_WW01
+line 135 - INFO: Start processing 201811250340_WW01
+line 242 - INFO: snr not high enough, continue
+line 135 - INFO: Start processing 201811251637_WW01
+line 179 - INFO: distance 149.6 is not within range (30.0,95.0), continue
+line 135 - INFO: Start processing 201811301729_WW01
+line 135 - INFO: Start processing 201812011327_WW01
+line 179 - INFO: distance 96.0 is not within range (30.0,95.0), continue
+line 135 - INFO: Start processing 201812050414_WW01
+line 135 - INFO: Start processing 201812050418_WW01
+line 135 - INFO: Start processing 201812050643_WW01
+line 135 - INFO: Start processing 201812110226_WW01
+line 179 - INFO: distance 96.3 is not within range (30.0,95.0), continue
+line 135 - INFO: Start processing 201812121313_WW01
+line 242 - INFO: snr not high enough, continue
+line 135 - INFO: Start processing 201812160942_WW01
+line 135 - INFO: Start processing 201812190137_WW01
+line 135 - INFO: Start processing 201812201701_WW01
+line 242 - INFO: snr not high enough, continue
+line 135 - INFO: Start processing 201812221425_WW01
+line 135 - INFO: Start processing 201812241241_WW01
+line 242 - INFO: snr not high enough, continue
+line 135 - INFO: Start processing 201812290339_WW01
+line 179 - INFO: distance 98.7 is not within range (30.0,95.0), continue
+line 135 - INFO: Start processing 201812310235_WW01
+
+line 242 - INFO: snr not high enough, continue
+line 135 - INFO: Start processing 201812221425_WW01
+line 135 - INFO: Start processing 201812241241_WW01
+line 242 - INFO: snr not high enough, continue
+line 135 - INFO: Start processing 201812290339_WW01
+line 179 - INFO: distance 98.7 is not within range (30.0,95.0), continue
+line 135 - INFO: Start processing 201812310235_WW01

@@ -1,0 +1,19 @@
+ls: cannot access '/home/lun/scratch-lun/OBSdata/yORCA_data/Mseed/WC05/WC05.*.2018.092*.msd': No such file or directory
+ls: cannot access '/home/lun/scratch-lun/OBSdata/yORCA_data/Mseed/WC05/WC05.*.2018.092*.msd': No such file or directory
+ls: cannot access '/home/lun/scratch-lun/OBSdata/yORCA_data/Mseed/WC05/WC05.*.2018.095*.msd': No such file or directory
+ls: cannot access '/home/lun/scratch-lun/OBSdata/yORCA_data/Mseed/WC05/WC05.*.2018.097*.msd': No such file or directory
+ls: cannot access '/home/lun/scratch-lun/OBSdata/yORCA_data/Mseed/WC05/WC05.*.2018.100*.msd': No such file or directory
+ls: cannot access '/home/lun/scratch-lun/OBSdata/yORCA_data/Mseed/WC05/WC05.*.2018.105*.msd': No such file or directory
+ls: cannot access '/home/lun/scratch-lun/OBSdata/yORCA_data/Mseed/WC05/WC05.*.2018.109*.msd': No such file or directory
+/home/lun/software/anacondaII/lib/python2.7/site-packages/obspy/signal/invsim.py:534: RuntimeWarning: Mean of empty slice.
+  data -= data.mean()
+/home/lun/software/anacondaII/lib/python2.7/site-packages/numpy/core/_methods.py:85: RuntimeWarning: invalid value encountered in double_scalars
+  ret = ret.dtype.type(ret / rcount)
+ls: cannot access '/home/lun/scratch-lun/OBSdata/yORCA_data/Mseed/WC05/WC05.*.2019.139*.msd': No such file or directory
+ls: cannot access '/home/lun/scratch-lun/OBSdata/yORCA_data/Mseed/WC05/WC05.*.2019.139*.msd': No such file or directory
+ls: cannot access '/home/lun/scratch-lun/OBSdata/yORCA_data/Mseed/WC05/WC05.*.2019.139*.msd': No such file or directory
+ls: cannot access '/home/lun/scratch-lun/OBSdata/yORCA_data/Mseed/WC05/WC05.*.2019.143*.msd': No such file or directory
+ls: cannot access '/home/lun/scratch-lun/OBSdata/yORCA_data/Mseed/WC05/WC05.*.2019.146*.msd': No such file or directory
+ls: cannot access '/home/lun/scratch-lun/OBSdata/yORCA_data/Mseed/WC05/WC05.*.2019.150*.msd': No such file or directory
+ls: cannot access '/home/lun/scratch-lun/OBSdata/yORCA_data/Mseed/WC05/WC05.*.2019.150*.msd': No such file or directory
+ls: cannot access '/home/lun/scratch-lun/OBSdata/yORCA_data/Mseed/WC05/WC05.*.2019.151*.msd': No such file or directory

@@ -1,0 +1,56 @@
+line 136 - INFO: Start processing 201804192109_CC12
+line 180 - INFO: distance 129.4 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201805020632_CC12
+line 180 - INFO: distance 26.5 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201805042232_CC12
+line 180 - INFO: distance 34.4 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201805050619_CC12
+line 180 - INFO: distance 104.0 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201804192109_CC12
+line 180 - INFO: distance 129.4 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201805020632_CC12
+line 180 - INFO: distance 26.5 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201805042232_CC12
+line 180 - INFO: distance 34.4 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201805050619_CC12
+line 180 - INFO: distance 104.0 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201804192109_CC12
+line 180 - INFO: distance 129.4 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201805020632_CC12
+line 180 - INFO: distance 26.5 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201805042232_CC12
+line 180 - INFO: distance 34.4 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201805050619_CC12
+line 180 - INFO: distance 104.0 is not within range (55.0,85.0), continue
+Traceback (most recent call last):
+  File "RFcal.py", line 58, in <module>
+    event_path = config.get('path','event_path')
+  File "/home/lun/Desktop/software/anaconda2/lib/python2.7/site-packages/backports/configparser/__init__.py", line 858, in get
+    d = self._unify_values(section, vars)
+  File "/home/lun/Desktop/software/anaconda2/lib/python2.7/site-packages/backports/configparser/__init__.py", line 1228, in _unify_values
+    raise NoSectionError(section)
+backports.configparser.NoSectionError: No section: 'path'
+Traceback (most recent call last):
+  File "RFcal.py", line 58, in <module>
+    event_path = config.get('path','event_path')
+  File "/home/lun/Desktop/software/anaconda2/lib/python2.7/site-packages/backports/configparser/__init__.py", line 858, in get
+    d = self._unify_values(section, vars)
+  File "/home/lun/Desktop/software/anaconda2/lib/python2.7/site-packages/backports/configparser/__init__.py", line 1228, in _unify_values
+    raise NoSectionError(section)
+backports.configparser.NoSectionError: No section: 'path'
+Traceback (most recent call last):
+  File "RFcal.py", line 58, in <module>
+    event_path = config.get('path','event_path')
+  File "/home/lun/Desktop/software/anaconda2/lib/python2.7/site-packages/backports/configparser/__init__.py", line 858, in get
+    d = self._unify_values(section, vars)
+  File "/home/lun/Desktop/software/anaconda2/lib/python2.7/site-packages/backports/configparser/__init__.py", line 1228, in _unify_values
+    raise NoSectionError(section)
+backports.configparser.NoSectionError: No section: 'path'
+line 136 - INFO: Start processing 201804192109_CC12
+line 180 - INFO: distance 129.4 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201805020632_CC12
+line 180 - INFO: distance 26.5 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201805042232_CC12
+line 180 - INFO: distance 34.4 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201805050619_CC12
+line 180 - INFO: distance 104.0 is not within range (55.0,85.0), continue

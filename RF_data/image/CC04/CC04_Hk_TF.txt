@@ -1,0 +1,15 @@
+[Hkpara]
+station = CC04
+Vp = 6.50
+samprate = 10.00
+Hlimit[km] = 4.0-8.0
+klimit = 1.50-2.00
+H_search_range[km] = 4.5-7.5
+k_search_range = 1.50-2.00
+TFtype = 1
+freq = 0.10,2.00
+[Result]
+H = 5.60
+k = 1.96
+Hstd = 0.02
+kstd = 0.00

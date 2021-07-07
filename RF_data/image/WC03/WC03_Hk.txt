@@ -1,0 +1,13 @@
+[Hkpara]
+station = WC03
+Vp = 3.00
+Hlimit[km] = 2.0-15.0
+klimit = 1.50-2.00
+H_search_range[km] = 8.0-15.0
+k_search_range = 1.60-1.85
+Phase_weight = 0.70,0.20,0.10
+[Result]
+H = 13.68
+k = 1.64
+Hstd = 0.57
+kstd = 0.05

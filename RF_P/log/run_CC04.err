@@ -1,0 +1,179 @@
+line 135 - INFO: Start processing 201805020632_CC04
+line 179 - INFO: distance 27.8 is not within range (30.0,95.0), continue
+line 135 - INFO: Start processing 201805042232_CC04
+/home/lun/Desktop/software/anaconda2/lib/python2.7/site-packages/obspy/taup/tau_branch.py:496: UserWarning: Resizing a TauP array inplace failed due to the existence of other references to the array, creating a new array. See Obspy #2280.
+  warnings.warn(msg)
+line 135 - INFO: Start processing 201805050619_CC04
+line 179 - INFO: distance 104.1 is not within range (30.0,95.0), continue
+line 135 - INFO: Start processing 201805090757_CC04
+line 135 - INFO: Start processing 201805091041_CC04
+line 179 - INFO: distance 141.4 is not within range (30.0,95.0), continue
+line 135 - INFO: Start processing 201805180145_CC04
+line 242 - INFO: snr not high enough, continue
+line 135 - INFO: Start processing 201806212113_CC04
+line 242 - INFO: snr not high enough, continue
+line 135 - INFO: Start processing 201807072133_CC04
+line 242 - INFO: snr not high enough, continue
+line 135 - INFO: Start processing 201807130946_CC04
+line 135 - INFO: Start processing 201807150157_CC04
+line 179 - INFO: distance 170.1 is not within range (30.0,95.0), continue
+line 135 - INFO: Start processing 201807170702_CC04
+line 135 - INFO: Start processing 201807231035_CC04
+line 179 - INFO: distance 113.4 is not within range (30.0,95.0), continue
+line 135 - INFO: Start processing 201807281707_CC04
+line 179 - INFO: distance 103.7 is not within range (30.0,95.0), continue
+line 135 - INFO: Start processing 201807282247_CC04
+line 179 - INFO: distance 109.6 is not within range (30.0,95.0), continue
+line 135 - INFO: Start processing 201808051146_CC04
+line 179 - INFO: distance 109.7 is not within range (30.0,95.0), continue
+line 135 - INFO: Start processing 201808101812_CC04
+line 135 - INFO: Start processing 201808121458_CC04
+line 135 - INFO: Start processing 201808122115_CC04
+line 242 - INFO: snr not high enough, continue
+line 135 - INFO: Start processing 201808140329_CC04
+line 135 - INFO: Start processing 201808171535_CC04
+line 179 - INFO: distance 106.5 is not within range (30.0,95.0), continue
+line 135 - INFO: Start processing 201808190019_CC04
+line 135 - INFO: Start processing 201808190023_CC04
+line 135 - INFO: Start processing 201808190410_CC04
+line 179 - INFO: distance 109.5 is not within range (30.0,95.0), continue
+line 135 - INFO: Start processing 201808190428_CC04
+line 135 - INFO: Start processing 201808191456_CC04
+line 179 - INFO: distance 109.5 is not within range (30.0,95.0), continue
+line 135 - INFO: Start processing 201808212232_CC04
+line 135 - INFO: Start processing 201807151309_CC04
+line 179 - INFO: distance 170.3 is not within range (30.0,95.0), continue
+line 135 - INFO: Start processing 201808240904_CC04
+line 135 - INFO: Start processing 201810131110_CC04
+line 135 - INFO: Start processing 201811251637_CC04
+line 179 - INFO: distance 150.9 is not within range (30.0,95.0), continue
+line 135 - INFO: Start processing 201901081239_CC04
+line 179 - INFO: distance 97.9 is not within range (30.0,95.0), continue
+line 135 - INFO: Start processing 201903081506_CC04
+line 179 - INFO: distance 101.9 is not within range (30.0,95.0), continue
+line 135 - INFO: Start processing 201904121223_CC04
+line 135 - INFO: Start processing 201808251650_CC04
+line 135 - INFO: Start processing 201808252213_CC04
+line 179 - INFO: distance 150.7 is not within range (30.0,95.0), continue
+line 135 - INFO: Start processing 201808280708_CC04
+line 179 - INFO: distance 101.8 is not within range (30.0,95.0), continue
+line 135 - INFO: Start processing 201808282235_CC04
+line 135 - INFO: Start processing 201808290351_CC04
+line 135 - INFO: Start processing 201809051807_CC04
+line 242 - INFO: snr not high enough, continue
+line 135 - INFO: Start processing 201809080716_CC04
+line 179 - INFO: distance 101.3 is not within range (30.0,95.0), continue
+line 135 - INFO: Start processing 201809091931_CC04
+line 135 - INFO: Start processing 201809100419_CC04
+line 135 - INFO: Start processing 201809101931_CC04
+line 135 - INFO: Start processing 201809162111_CC04
+line 135 - INFO: Start processing 201809180727_CC04
+line 179 - INFO: distance 137.1 is not within range (30.0,95.0), continue
+line 135 - INFO: Start processing 201809280659_CC04
+line 179 - INFO: distance 107.3 is not within range (30.0,95.0), continue
+line 135 - INFO: Start processing 201809281002_CC04
+line 179 - INFO: distance 107.3 is not within range (30.0,95.0), continue
+line 135 - INFO: Start processing 201809301052_CC04
+line 135 - INFO: Start processing 201810090745_CC04
+line 135 - INFO: Start processing 201810160028_CC04
+line 135 - INFO: Start processing 201810160103_CC04
+line 135 - INFO: Start processing 201810282223_CC04
+line 135 - INFO: Start processing 201810290654_CC04
+line 135 - INFO: Start processing 201810300213_CC04
+line 135 - INFO: Start processing 201811012219_CC04
+line 135 - INFO: Start processing 201811021101_CC04
+line 135 - INFO: Start processing 201811040755_CC04
+line 179 - INFO: distance 103.9 is not within range (30.0,95.0), continue
+line 135 - INFO: Start processing 201811090149_CC04
+line 179 - INFO: distance 104.5 is not within range (30.0,95.0), continue
+line 135 - INFO: Start processing 201811100833_CC04
+line 135 - INFO: Start processing 201811111403_CC04
+line 135 - INFO: Start processing 201811142121_CC04
+line 135 - INFO: Start processing 201811152002_CC04
+line 179 - INFO: distance 95.0 is not within range (30.0,95.0), continue
+line 135 - INFO: Start processing 201811160326_CC04
+line 135 - INFO: Start processing 201811182025_CC04
+line 135 - INFO: Start processing 201811250340_CC04
+line 135 - INFO: Start processing 201811301729_CC04
+line 135 - INFO: Start processing 201812011327_CC04
+line 179 - INFO: distance 97.7 is not within range (30.0,95.0), continue
+line 135 - INFO: Start processing 201812050414_CC04
+line 135 - INFO: Start processing 201812050418_CC04
+line 135 - INFO: Start processing 201812050643_CC04
+line 135 - INFO: Start processing 201812110226_CC04
+line 135 - INFO: Start processing 201812121313_CC04
+line 135 - INFO: Start processing 201812160942_CC04
+line 135 - INFO: Start processing 201812190137_CC04
+line 135 - INFO: Start processing 201812201701_CC04
+line 135 - INFO: Start processing 201812221425_CC04
+line 135 - INFO: Start processing 201812241241_CC04
+line 242 - INFO: snr not high enough, continue
+line 135 - INFO: Start processing 201812290339_CC04
+line 179 - INFO: distance 100.7 is not within range (30.0,95.0), continue
+line 135 - INFO: Start processing 201812310235_CC04
+line 135 - INFO: Start processing 201901051925_CC04
+line 135 - INFO: Start processing 201901061727_CC04
+line 179 - INFO: distance 100.6 is not within range (30.0,95.0), continue
+line 135 - INFO: Start processing 201901151806_CC04
+line 135 - INFO: Start processing 201901171506_CC04
+line 242 - INFO: snr not high enough, continue
+line 135 - INFO: Start processing 201901181318_CC04
+line 135 - INFO: Start processing 201901200132_CC04
+line 135 - INFO: Start processing 201901220510_CC04
+line 179 - INFO: distance 106.8 is not within range (30.0,95.0), continue
+line 135 - INFO: Start processing 201901221901_CC04
+line 179 - INFO: distance 131.7 is not within range (30.0,95.0), continue
+line 135 - INFO: Start processing 201901260351_CC04
+line 135 - INFO: Start processing 201901261956_CC04
+line 242 - INFO: snr not high enough, continue
+line 135 - INFO: Start processing 201902011614_CC04
+line 135 - INFO: Start processing 201902020927_CC04
+line 179 - INFO: distance 126.6 is not within range (30.0,95.0), continue
+line 135 - INFO: Start processing 201902121234_CC04
+line 135 - INFO: Start processing 201902141957_CC04
+line 179 - INFO: distance 98.5 is not within range (30.0,95.0), continue
+line 135 - INFO: Start processing 201902171435_CC04
+line 135 - INFO: Start processing 201902221017_CC04
+line 135 - INFO: Start processing 201903010850_CC04
+line 135 - INFO: Start processing 201903061546_CC04
+line 135 - INFO: Start processing 201903100812_CC04
+line 135 - INFO: Start processing 201903101248_CC04
+line 135 - INFO: Start processing 201903150503_CC04
+line 135 - INFO: Start processing 201903201523_CC04
+line 135 - INFO: Start processing 201903231921_CC04
+line 135 - INFO: Start processing 201903240437_CC04
+line 179 - INFO: distance 100.9 is not within range (30.0,95.0), continue
+line 135 - INFO: Start processing 201903282206_CC04
+line 135 - INFO: Start processing 201903301120_CC04
+line 135 - INFO: Start processing 201903310704_CC04
+line 135 - INFO: Start processing 201904011839_CC04
+line 179 - INFO: distance 150.7 is not within range (30.0,95.0), continue
+line 135 - INFO: Start processing 201904022135_CC04
+line 242 - INFO: snr not high enough, continue
+line 135 - INFO: Start processing 201904051614_CC04
+line 135 - INFO: Start processing 201904062155_CC04
+line 179 - INFO: distance 101.4 is not within range (30.0,95.0), continue
+line 135 - INFO: Start processing 201904091753_CC04
+line 242 - INFO: snr not high enough, continue
+line 135 - INFO: Start processing 201904110818_CC04
+line 135 - INFO: Start processing 201904121140_CC04
+line 179 - INFO: distance 104.4 is not within range (30.0,95.0), continue
+line 135 - INFO: Start processing 201904121451_CC04
+line 135 - INFO: Start processing 201904180501_CC04
+line 179 - INFO: distance 106.3 is not within range (30.0,95.0), continue
+line 135 - INFO: Start processing 201904181446_CC04
+line 135 - INFO: Start processing 201904220911_CC04
+line 179 - INFO: distance 107.4 is not within range (30.0,95.0), continue
+line 135 - INFO: Start processing 201904221449_CC04
+line 135 - INFO: Start processing 201904230537_CC04
+line 179 - INFO: distance 102.8 is not within range (30.0,95.0), continue
+line 135 - INFO: Start processing 201904231420_CC04
+line 135 - INFO: Start processing 201904291419_CC04
+line 179 - INFO: distance 168.6 is not within range (30.0,95.0), continue
+line 135 - INFO: Start processing 201905030725_CC04
+line 135 - INFO: Start processing 201905062119_CC04
+line 135 - INFO: Start processing 201905121924_CC04
+line 135 - INFO: Start processing 201905141258_CC04
+line 135 - INFO: Start processing 201905190123_CC04
+line 135 - INFO: Start processing 201905191427_CC04
+line 135 - INFO: Start processing 201905191456_CC04

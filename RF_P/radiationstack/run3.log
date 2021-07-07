@@ -1,0 +1,130 @@
+nohup: ignoring input
+/home/lun/Desktop/software/anaconda2/lib/python2.7/site-packages/obspy/taup/tau_branch.py:496: UserWarning: Resizing a TauP array inplace failed due to the existence of other references to the array, creating a new array. See Obspy #2280.
+  warnings.warn(msg)
+/media/lun/easystore/UCSB/research/PacificORCA/RF/RF_P/radiationstack/cc.py:87: RuntimeWarning: divide by zero encountered in double_scalars
+  dvcstd[ista] = np.sqrt(np.sum(resid[G[:kk,ista]!=0]**2)/(np.sum(G[:kk,ista]!=0)-2))
+/media/lun/easystore/UCSB/research/PacificORCA/RF/RF_P/radiationstack/cc.py:41: RuntimeWarning: invalid value encountered in sqrt
+  dvcstd[j] = np.sqrt(np.sum(resid[G_cut[:-1,i]!=0]**2)/(np.sum(G_cut[:-1,i]!=0)-2))
+/media/lun/easystore/UCSB/research/PacificORCA/RF/RF_P/radiationstack/cc.py:41: RuntimeWarning: divide by zero encountered in double_scalars
+  dvcstd[j] = np.sqrt(np.sum(resid[G_cut[:-1,i]!=0]**2)/(np.sum(G_cut[:-1,i]!=0)-2))
+/media/lun/easystore/UCSB/research/PacificORCA/RF/RF_P/radiationstack/cc.py:41: RuntimeWarning: invalid value encountered in double_scalars
+  dvcstd[j] = np.sqrt(np.sum(resid[G_cut[:-1,i]!=0]**2)/(np.sum(G_cut[:-1,i]!=0)-2))
+/home/lun/Desktop/software/anaconda2/lib/python2.7/site-packages/numpy/core/_methods.py:117: RuntimeWarning: invalid value encountered in subtract
+  x = asanyarray(arr - arrmean)
+20180504223254 succeeded
+20180518014531 succeeded
+20180621211332 succeeded
+20180706014004 succeeded
+20180713094649 succeeded
+can't read ../../RF_data/rotated_data_P_event/20180810181207/20180810181207_WC02.Z, continue
+20180810181207 succeeded
+can't read ../../RF_data/rotated_data_P_event/20180812145853/20180812145853_WC02.Z, continue
+can't read ../../RF_data/rotated_data_P_event/20180812145853/20180812145853_CC08.Z, continue
+20180812145853 succeeded
+20180815215656 succeeded
+can't read ../../RF_data/rotated_data_P_event/20180817232224/20180817232224_CC02.Z, continue
+can't read ../../RF_data/rotated_data_P_event/20180817232224/20180817232224_CC05.Z, continue
+can't read ../../RF_data/rotated_data_P_event/20180817232224/20180817232224_WC02.Z, continue
+can't read ../../RF_data/rotated_data_P_event/20180817232224/20180817232224_WC04.Z, continue
+can't read ../../RF_data/rotated_data_P_event/20180817232224/20180817232224_CC07.Z, continue
+can't read ../../RF_data/rotated_data_P_event/20180817232224/20180817232224_CC04.Z, continue
+can't read ../../RF_data/rotated_data_P_event/20180819002306/20180819002306_WC02.Z, continue
+no CMT for 20180819002306, continue
+can't read ../../RF_data/rotated_data_P_event/20180819042858/20180819042858_CC08.Z, continue
+no CMT for 20180819042858, continue
+20180821213147 succeeded
+can't read ../../RF_data/rotated_data_P_event/20180821223226/20180821223226_WC04.Z, continue
+20180821223226 succeeded
+20180822093145 succeeded
+20180823033512 succeeded
+can't read ../../RF_data/rotated_data_P_event/20180824090408/20180824090408_WC04.Z, continue
+can't read ../../RF_data/rotated_data_P_event/20180824090408/20180824090408_WC03.Z, continue
+20180824090408 succeeded
+can't read ../../RF_data/rotated_data_P_event/20180828223513/20180828223513_CC02.Z, continue
+20180828223513 succeeded
+20180829035156 succeeded
+can't read ../../RF_data/rotated_data_P_event/20180906154918/20180906154918_CC08.Z, continue
+can't read ../../RF_data/rotated_data_P_event/20180906154918/20180906154918_WC04.Z, continue
+can't read ../../RF_data/rotated_data_P_event/20180907021206/20180907021206_CC04.Z, continue
+can't read ../../RF_data/rotated_data_P_event/20180907021206/20180907021206_CC08.Z, continue
+can't read ../../RF_data/rotated_data_P_event/20180909193135/20180909193135_WC04.Z, continue
+can't read ../../RF_data/rotated_data_P_event/20180909193135/20180909193135_CC02.Z, continue
+20180909193135 succeeded
+can't read ../../RF_data/rotated_data_P_event/20180910041902/20180910041902_CC08.Z, continue
+can't read ../../RF_data/rotated_data_P_event/20180910041902/20180910041902_CC07.Z, continue
+can't read ../../RF_data/rotated_data_P_event/20180910041902/20180910041902_WC04.Z, continue
+can't read ../../RF_data/rotated_data_P_event/20180910193137/20180910193137_WC04.Z, continue
+can't read ../../RF_data/rotated_data_P_event/20180910193137/20180910193137_CC08.Z, continue
+20180916211148 succeeded
+20180930105223 succeeded
+no CMT for 20181010204525, continue
+20181010204820 succeeded
+20181010220034 succeeded
+20181013111022 succeeded
+can't read ../../RF_data/rotated_data_P_event/20181016002813/20181016002813_WC03.Z, continue
+20181016002813 succeeded
+20181016010343 succeeded
+20181022053939 succeeded
+20181022061626 succeeded
+20181022062248 succeeded
+20181029065421 succeeded
+20181030021339 succeeded
+20181101221951 succeeded
+20181102110115 succeeded
+can't read ../../RF_data/rotated_data_P_event/20181110083321/20181110083321_CC08.Z, continue
+can't read ../../RF_data/rotated_data_P_event/20181111140359/20181111140359_CC08.Z, continue
+20181111140359 succeeded
+can't read ../../RF_data/rotated_data_P_event/20181114212150/20181114212150_WC04.Z, continue
+20181114212150 succeeded
+can't read ../../RF_data/rotated_data_P_event/20181115230901/20181115230901_WC04.Z, continue
+can't read ../../RF_data/rotated_data_P_event/20181115230901/20181115230901_WC03.Z, continue
+can't read ../../RF_data/rotated_data_P_event/20181115230901/20181115230901_WC02.Z, continue
+can't read ../../RF_data/rotated_data_P_event/20181116032655/20181116032655_WC04.Z, continue
+20181118202546 succeeded
+20181125034050 succeeded
+20181130172929 succeeded
+no CMT for 20181205041436, continue
+20181205041808 succeeded
+20181205064304 succeeded
+20181211022629 succeeded
+no CMT for 20181212131356, continue
+20181216094237 succeeded
+20181219013740 succeeded
+20181220170155 succeeded
+20181222142501 succeeded
+can't read ../../RF_data/rotated_data_P_event/20181223230843/20181223230843_CC07.Z, continue
+can't read ../../RF_data/rotated_data_P_event/20181223230843/20181223230843_WC04.Z, continue
+can't read ../../RF_data/rotated_data_P_event/20181223230843/20181223230843_CC08.Z, continue
+can't read ../../RF_data/rotated_data_P_event/20181223230843/20181223230843_CC02.Z, continue
+can't read ../../RF_data/rotated_data_P_event/20181223230843/20181223230843_WC02.Z, continue
+can't read ../../RF_data/rotated_data_P_event/20181223230843/20181223230843_CC04.Z, continue
+can't read ../../RF_data/rotated_data_P_event/20181223230843/20181223230843_CC05.Z, continue
+20181224124119 succeeded
+20190105192538 succeeded
+can't read ../../RF_data/rotated_data_P_event/20190115180634/20190115180634_WC04.Z, continue
+20190115180634 succeeded
+can't read ../../RF_data/rotated_data_P_event/20190120013252/20190120013252_WC04.Z, continue
+20190120013252 succeeded
+20190126035137 succeeded
+20190201161412 succeeded
+20190212123416 succeeded
+20190217143555 succeeded
+20190222101723 succeeded
+20190301085042 succeeded
+20190306154614 succeeded
+20190310081226 succeeded
+can't read ../../RF_data/rotated_data_P_event/20190320152358/20190320152358_WC04.Z, continue
+20190320152358 succeeded
+20190323192117 succeeded
+20190328220649 succeeded
+20190330112042 succeeded
+20190412122304 succeeded
+20190412145131 succeeded
+20190422144905 succeeded
+20190423142017 succeeded
+20190503072531 succeeded
+20190506211937 succeeded
+can't read ../../RF_data/rotated_data_P_event/20190512192450/20190512192450_WC02.Z, continue
+20190514125825 succeeded
+20190519012329 succeeded
+20190519142711 succeeded

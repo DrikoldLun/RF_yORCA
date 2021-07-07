@@ -1,0 +1,111 @@
+line 135 - INFO: Start processing 201804192109_CC09
+line 179 - INFO: distance 130.5 is not within range (30.0,95.0), continue
+line 135 - INFO: Start processing 201808161822_CC09
+line 242 - INFO: snr not high enough, continue
+line 135 - INFO: Start processing 201808190410_CC09
+line 179 - INFO: distance 108.8 is not within range (30.0,95.0), continue
+line 135 - INFO: Start processing 201808190428_CC09
+/home/lun/Desktop/software/anaconda2/lib/python2.7/site-packages/obspy/taup/tau_branch.py:496: UserWarning: Resizing a TauP array inplace failed due to the existence of other references to the array, creating a new array. See Obspy #2280.
+  warnings.warn(msg)
+line 135 - INFO: Start processing 201811090149_CC09
+line 179 - INFO: distance 106.2 is not within range (30.0,95.0), continue
+line 135 - INFO: Start processing 201811100833_CC09
+line 242 - INFO: snr not high enough, continue
+line 135 - INFO: Start processing 201811111403_CC09
+line 135 - INFO: Start processing 201811142121_CC09
+line 242 - INFO: snr not high enough, continue
+line 135 - INFO: Start processing 201811152002_CC09
+line 242 - INFO: snr not high enough, continue
+line 135 - INFO: Start processing 201811160326_CC09
+line 135 - INFO: Start processing 201811182025_CC09
+line 135 - INFO: Start processing 201811250340_CC09
+line 242 - INFO: snr not high enough, continue
+line 135 - INFO: Start processing 201811251637_CC09
+line 179 - INFO: distance 152.6 is not within range (30.0,95.0), continue
+line 135 - INFO: Start processing 201811301729_CC09
+line 135 - INFO: Start processing 201812011327_CC09
+line 179 - INFO: distance 97.1 is not within range (30.0,95.0), continue
+line 135 - INFO: Start processing 201812050414_CC09
+line 135 - INFO: Start processing 201812050643_CC09
+line 135 - INFO: Start processing 201812110226_CC09
+line 135 - INFO: Start processing 201812121313_CC09
+line 135 - INFO: Start processing 201812160942_CC09
+line 135 - INFO: Start processing 201812190137_CC09
+line 135 - INFO: Start processing 201812050418_CC09
+line 135 - INFO: Start processing 201901220510_CC09
+line 179 - INFO: distance 106.1 is not within range (30.0,95.0), continue
+line 135 - INFO: Start processing 201903231921_CC09
+line 135 - INFO: Start processing 201904230537_CC09
+line 179 - INFO: distance 102.7 is not within range (30.0,95.0), continue
+line 135 - INFO: Start processing 201812201701_CC09
+line 135 - INFO: Start processing 201812221425_CC09
+line 242 - INFO: snr not high enough, continue
+line 135 - INFO: Start processing 201812290339_CC09
+line 179 - INFO: distance 100.4 is not within range (30.0,95.0), continue
+line 135 - INFO: Start processing 201812310235_CC09
+line 242 - INFO: snr not high enough, continue
+line 135 - INFO: Start processing 201901051925_CC09
+line 135 - INFO: Start processing 201901061727_CC09
+line 179 - INFO: distance 100.2 is not within range (30.0,95.0), continue
+line 135 - INFO: Start processing 201901081239_CC09
+line 179 - INFO: distance 98.3 is not within range (30.0,95.0), continue
+line 135 - INFO: Start processing 201901151806_CC09
+line 135 - INFO: Start processing 201901171506_CC09
+line 135 - INFO: Start processing 201901181318_CC09
+line 135 - INFO: Start processing 201901200132_CC09
+line 135 - INFO: Start processing 201901221901_CC09
+line 179 - INFO: distance 130.2 is not within range (30.0,95.0), continue
+line 135 - INFO: Start processing 201901260351_CC09
+line 135 - INFO: Start processing 201901261956_CC09
+line 242 - INFO: snr not high enough, continue
+line 135 - INFO: Start processing 201902011614_CC09
+line 135 - INFO: Start processing 201902020927_CC09
+line 179 - INFO: distance 126.0 is not within range (30.0,95.0), continue
+line 135 - INFO: Start processing 201902121234_CC09
+line 135 - INFO: Start processing 201902141957_CC09
+line 179 - INFO: distance 99.7 is not within range (30.0,95.0), continue
+line 135 - INFO: Start processing 201902171435_CC09
+line 242 - INFO: snr not high enough, continue
+line 135 - INFO: Start processing 201902221017_CC09
+line 135 - INFO: Start processing 201903010850_CC09
+line 135 - INFO: Start processing 201903061546_CC09
+line 135 - INFO: Start processing 201903081506_CC09
+line 179 - INFO: distance 101.8 is not within range (30.0,95.0), continue
+line 135 - INFO: Start processing 201903100812_CC09
+line 135 - INFO: Start processing 201903101248_CC09
+line 135 - INFO: Start processing 201903150503_CC09
+line 135 - INFO: Start processing 201903201523_CC09
+line 135 - INFO: Start processing 201903240437_CC09
+line 179 - INFO: distance 100.5 is not within range (30.0,95.0), continue
+line 135 - INFO: Start processing 201903282206_CC09
+line 135 - INFO: Start processing 201903301120_CC09
+line 135 - INFO: Start processing 201903310704_CC09
+line 242 - INFO: snr not high enough, continue
+line 135 - INFO: Start processing 201904011839_CC09
+line 179 - INFO: distance 149.1 is not within range (30.0,95.0), continue
+line 135 - INFO: Start processing 201904022135_CC09
+line 135 - INFO: Start processing 201904051614_CC09
+line 135 - INFO: Start processing 201904062155_CC09
+line 179 - INFO: distance 100.8 is not within range (30.0,95.0), continue
+line 135 - INFO: Start processing 201904091753_CC09
+line 135 - INFO: Start processing 201904110818_CC09
+line 135 - INFO: Start processing 201904121140_CC09
+line 179 - INFO: distance 103.9 is not within range (30.0,95.0), continue
+line 135 - INFO: Start processing 201904121223_CC09
+line 242 - INFO: snr not high enough, continue
+line 135 - INFO: Start processing 201904121451_CC09
+line 135 - INFO: Start processing 201904180501_CC09
+line 179 - INFO: distance 106.5 is not within range (30.0,95.0), continue
+line 135 - INFO: Start processing 201904181446_CC09
+line 135 - INFO: Start processing 201904221449_CC09
+line 242 - INFO: snr not high enough, continue
+line 135 - INFO: Start processing 201904231420_CC09
+line 135 - INFO: Start processing 201904291419_CC09
+line 179 - INFO: distance 168.9 is not within range (30.0,95.0), continue
+line 135 - INFO: Start processing 201905030725_CC09
+line 242 - INFO: snr not high enough, continue
+line 135 - INFO: Start processing 201905062119_CC09
+line 242 - INFO: snr not high enough, continue
+line 135 - INFO: Start processing 201905121924_CC09
+line 135 - INFO: Start processing 201905141258_CC09
+135 - INFO: Start processing 201905141258_CC09

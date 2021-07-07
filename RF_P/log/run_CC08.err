@@ -1,0 +1,141 @@
+line 135 - INFO: Start processing 201805020632_CC08
+line 179 - INFO: distance 27.2 is not within range (30.0,95.0), continue
+line 135 - INFO: Start processing 201805042232_CC08
+/home/lun/Desktop/software/anaconda2/lib/python2.7/site-packages/obspy/taup/tau_branch.py:496: UserWarning: Resizing a TauP array inplace failed due to the existence of other references to the array, creating a new array. See Obspy #2280.
+  warnings.warn(msg)
+line 135 - INFO: Start processing 201805050619_CC08
+line 179 - INFO: distance 104.1 is not within range (30.0,95.0), continue
+line 135 - INFO: Start processing 201805090757_CC08
+line 135 - INFO: Start processing 201805091041_CC08
+line 179 - INFO: distance 142.3 is not within range (30.0,95.0), continue
+line 135 - INFO: Start processing 201805180145_CC08
+line 135 - INFO: Start processing 201806212113_CC08
+line 135 - INFO: Start processing 201807191830_CC08
+line 242 - INFO: snr not high enough, continue
+line 135 - INFO: Start processing 201807281707_CC08
+line 179 - INFO: distance 103.1 is not within range (30.0,95.0), continue
+line 135 - INFO: Start processing 201807282247_CC08
+line 179 - INFO: distance 109.0 is not within range (30.0,95.0), continue
+line 135 - INFO: Start processing 201808152156_CC08
+line 135 - INFO: Start processing 201808161822_CC08
+line 135 - INFO: Start processing 201808190019_CC08
+line 135 - INFO: Start processing 201808190023_CC08
+line 135 - INFO: Start processing 201808212131_CC08
+line 242 - INFO: snr not high enough, continue
+line 135 - INFO: Start processing 201808212232_CC08
+line 135 - INFO: Start processing 201808220931_CC08
+line 135 - INFO: Start processing 201808230335_CC08
+line 135 - INFO: Start processing 201808240904_CC08
+line 135 - INFO: Start processing 201808251650_CC08
+line 135 - INFO: Start processing 201808252213_CC08
+line 179 - INFO: distance 152.0 is not within range (30.0,95.0), continue
+line 135 - INFO: Start processing 201808282235_CC08
+line 135 - INFO: Start processing 201808290351_CC08
+line 242 - INFO: snr not high enough, continue
+line 135 - INFO: Start processing 201809162111_CC08
+line 135 - INFO: Start processing 201809180727_CC08
+line 179 - INFO: distance 135.9 is not within range (30.0,95.0), continue
+line 135 - INFO: Start processing 201809280659_CC08
+line 179 - INFO: distance 106.9 is not within range (30.0,95.0), continue
+line 135 - INFO: Start processing 201808101812_CC08
+line 135 - INFO: Start processing 201809281002_CC08
+line 179 - INFO: distance 106.9 is not within range (30.0,95.0), continue
+line 135 - INFO: Start processing 201812121313_CC08
+line 135 - INFO: Start processing 201901260351_CC08
+line 135 - INFO: Start processing 201903282206_CC08
+line 135 - INFO: Start processing 201904231420_CC08
+line 135 - INFO: Start processing 201809301052_CC08
+line 135 - INFO: Start processing 201810090745_CC08
+line 135 - INFO: Start processing 201810101844_CC08
+line 179 - INFO: distance 111.2 is not within range (30.0,95.0), continue
+line 135 - INFO: Start processing 201810102045_CC08
+line 135 - INFO: Start processing 201810102048_CC08
+line 135 - INFO: Start processing 201810102200_CC08
+line 135 - INFO: Start processing 201810131110_CC08
+line 135 - INFO: Start processing 201810160028_CC08
+line 135 - INFO: Start processing 201810160103_CC08
+line 135 - INFO: Start processing 201810220539_CC08
+line 135 - INFO: Start processing 201810220616_CC08
+line 242 - INFO: snr not high enough, continue
+line 135 - INFO: Start processing 201810220622_CC08
+line 135 - INFO: Start processing 201810252254_CC08
+line 179 - INFO: distance 140.9 is not within range (30.0,95.0), continue
+line 135 - INFO: Start processing 201811012219_CC08
+line 242 - INFO: snr not high enough, continue
+line 135 - INFO: Start processing 201811021101_CC08
+line 135 - INFO: Start processing 201811142121_CC08
+line 135 - INFO: Start processing 201812160942_CC08
+line 135 - INFO: Start processing 201812190137_CC08
+line 135 - INFO: Start processing 201812201701_CC08
+line 135 - INFO: Start processing 201812221425_CC08
+line 135 - INFO: Start processing 201812241241_CC08
+line 135 - INFO: Start processing 201812290339_CC08
+line 179 - INFO: distance 100.5 is not within range (30.0,95.0), continue
+line 135 - INFO: Start processing 201812310235_CC08
+line 242 - INFO: snr not high enough, continue
+line 135 - INFO: Start processing 201901051925_CC08
+line 135 - INFO: Start processing 201901061727_CC08
+line 179 - INFO: distance 100.3 is not within range (30.0,95.0), continue
+line 135 - INFO: Start processing 201901081239_CC08
+line 179 - INFO: distance 98.3 is not within range (30.0,95.0), continue
+line 135 - INFO: Start processing 201901151806_CC08
+line 135 - INFO: Start processing 201901171506_CC08
+line 135 - INFO: Start processing 201901181318_CC08
+line 135 - INFO: Start processing 201901200132_CC08
+line 135 - INFO: Start processing 201901220510_CC08
+line 179 - INFO: distance 106.2 is not within range (30.0,95.0), continue
+line 135 - INFO: Start processing 201901221901_CC08
+line 179 - INFO: distance 130.5 is not within range (30.0,95.0), continue
+line 135 - INFO: Start processing 201901261956_CC08
+line 135 - INFO: Start processing 201902011614_CC08
+line 135 - INFO: Start processing 201902020927_CC08
+line 179 - INFO: distance 126.1 is not within range (30.0,95.0), continue
+line 135 - INFO: Start processing 201902121234_CC08
+line 135 - INFO: Start processing 201902141957_CC08
+line 179 - INFO: distance 99.5 is not within range (30.0,95.0), continue
+line 135 - INFO: Start processing 201902171435_CC08
+line 135 - INFO: Start processing 201902221017_CC08
+line 135 - INFO: Start processing 201903010850_CC08
+line 135 - INFO: Start processing 201903061546_CC08
+line 135 - INFO: Start processing 201903081506_CC08
+line 179 - INFO: distance 101.8 is not within range (30.0,95.0), continue
+line 135 - INFO: Start processing 201903100812_CC08
+line 135 - INFO: Start processing 201903101248_CC08
+line 135 - INFO: Start processing 201903150503_CC08
+line 135 - INFO: Start processing 201903201523_CC08
+line 135 - INFO: Start processing 201903231921_CC08
+line 135 - INFO: Start processing 201903240437_CC08
+line 179 - INFO: distance 100.6 is not within range (30.0,95.0), continue
+line 135 - INFO: Start processing 201903301120_CC08
+line 135 - INFO: Start processing 201903310704_CC08
+line 135 - INFO: Start processing 201904011839_CC08
+line 179 - INFO: distance 149.4 is not within range (30.0,95.0), continue
+line 135 - INFO: Start processing 201904022135_CC08
+line 135 - INFO: Start processing 201904051614_CC08
+line 135 - INFO: Start processing 201904062155_CC08
+line 179 - INFO: distance 100.9 is not within range (30.0,95.0), continue
+line 135 - INFO: Start processing 201904091753_CC08
+line 135 - INFO: Start processing 201904110818_CC08
+line 135 - INFO: Start processing 201904121140_CC08
+line 179 - INFO: distance 104.0 is not within range (30.0,95.0), continue
+line 135 - INFO: Start processing 201904121223_CC08
+line 135 - INFO: Start processing 201904121451_CC08
+line 135 - INFO: Start processing 201904180501_CC08
+line 179 - INFO: distance 106.5 is not within range (30.0,95.0), continue
+line 135 - INFO: Start processing 201904181446_CC08
+line 135 - INFO: Start processing 201904220911_CC08
+line 179 - INFO: distance 107.4 is not within range (30.0,95.0), continue
+line 135 - INFO: Start processing 201904221449_CC08
+line 135 - INFO: Start processing 201904230537_CC08
+line 179 - INFO: distance 102.7 is not within range (30.0,95.0), continue
+line 135 - INFO: Start processing 201904291419_CC08
+line 179 - INFO: distance 168.9 is not within range (30.0,95.0), continue
+line 135 - INFO: Start processing 201905030725_CC08
+line 135 - INFO: Start processing 201905062119_CC08
+line 135 - INFO: Start processing 201905121924_CC08
+line 135 - INFO: Start processing 201905141258_CC08
+line 135 - INFO: Start processing 201905190123_CC08
+line 135 - INFO: Start processing 201905191427_CC08
+line 242 - INFO: snr not high enough, continue
+line 135 - INFO: Start processing 201905191456_CC08
+line 242 - INFO: snr not high enough, continue

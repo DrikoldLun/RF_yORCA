@@ -1,0 +1,38 @@
+Traceback (most recent call last):
+  File "propmat.py", line 670, in <module>
+    HVs_singletrace(data,rayp,sta=sta,ID=sta,Vssearch=[3.5,4.0])
+  File "propmat.py", line 375, in HVs_singletrace
+    s = np.load('s_matrice/tmp_%s.npy'%sta)
+  File "/home/lun/software/anacondaII/lib/python2.7/site-packages/numpy/lib/npyio.py", line 422, in load
+    fid = open(os_fspath(file), "rb")
+IOError: [Errno 2] No such file or directory: 's_matrice/tmp_CC08.npy'
+Matrix dimensions must agree.
+
+Error in propmat_syn (line 68)
+ttP = ttP - t_arP;
+
+Matrix dimensions must agree.
+
+Error in propmat_syn (line 68)
+ttP = ttP - t_arP;
+
+Matrix dimensions must agree.
+
+Error in propmat_syn (line 68)
+ttP = ttP - t_arP;
+
+Matrix dimensions must agree.
+
+Error in propmat_syn (line 68)
+ttP = ttP - t_arP;
+
+Matrix dimensions must agree.
+
+Error in propmat_syn (line 68)
+ttP = ttP - t_arP;
+
+Matrix dimensions must agree.
+
+Error in propmat_syn (line 68)
+ttP = ttP - t_arP;
+

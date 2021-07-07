@@ -1,0 +1,13 @@
+[Hkpara]
+station = CC04
+Vp = 6.50
+Hlimit[km] = 2.0-10.0
+klimit = 1.50-2.00
+H_search_range[km] = 4.0-8.0
+k_search_range = 1.65-1.90
+Phase_weight = 0.50,0.20,0.30
+[Result]
+H = 5.10
+k = 1.88
+Hstd = 0.75
+kstd = 0.09

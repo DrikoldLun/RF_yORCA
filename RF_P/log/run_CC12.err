@@ -1,0 +1,9 @@
+line 135 - INFO: Start processing 201804192109_CC12
+line 179 - INFO: distance 129.4 is not within range (30.0,95.0), continue
+line 135 - INFO: Start processing 201805020632_CC12
+line 179 - INFO: distance 26.5 is not within range (30.0,95.0), continue
+line 135 - INFO: Start processing 201805042232_CC12
+/home/lun/Desktop/software/anaconda2/lib/python2.7/site-packages/obspy/taup/tau_branch.py:496: UserWarning: Resizing a TauP array inplace failed due to the existence of other references to the array, creating a new array. See Obspy #2280.
+  warnings.warn(msg)
+line 135 - INFO: Start processing 201805050619_CC12
+line 179 - INFO: distance 104.0 is not within range (30.0,95.0), continue

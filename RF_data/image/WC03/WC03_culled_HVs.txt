@@ -1,0 +1,12 @@
+[HVspara]
+station = WC03
+Vp = 6.50
+samprate = 10.00
+Hlimit[km] = 4.0-8.0
+Vslimit = 3.00-4.20
+H_search_range[km] = 4.5-7.5
+Vs_search_range = 3.00-4.20
+freq = 0.10,2.00
+[Result]
+H = 6.90
+Vs = 4.00

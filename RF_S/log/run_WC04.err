@@ -1,0 +1,825 @@
+line 136 - INFO: Start processing 201805020632_WC04
+line 180 - INFO: distance 27.9 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201805042232_WC04
+line 180 - INFO: distance 32.9 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201805050619_WC04
+line 180 - INFO: distance 103.1 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201805090757_WC04
+/home/lun/Desktop/software/anaconda2/lib/python2.7/site-packages/obspy/taup/tau_branch.py:496: UserWarning: Resizing a TauP array inplace failed due to the existence of other references to the array, creating a new array. See Obspy #2280.
+  warnings.warn(msg)
+line 136 - INFO: Start processing 201805091041_WC04
+line 180 - INFO: distance 141.8 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201805180145_WC04
+line 180 - INFO: distance 49.4 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201806212113_WC04
+line 136 - INFO: Start processing 201807060140_WC04
+line 136 - INFO: Start processing 201807072133_WC04
+line 180 - INFO: distance 47.6 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201807130946_WC04
+line 136 - INFO: Start processing 201807151309_WC04
+line 180 - INFO: distance 170.7 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201807170702_WC04
+line 136 - INFO: Start processing 201807191830_WC04
+line 136 - INFO: Start processing 201807231035_WC04
+line 180 - INFO: distance 114.7 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201807281707_WC04
+line 180 - INFO: distance 102.1 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201807282247_WC04
+line 180 - INFO: distance 108.1 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201808051146_WC04
+line 180 - INFO: distance 108.1 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201808101812_WC04
+line 136 - INFO: Start processing 201808121458_WC04
+line 136 - INFO: Start processing 201808122115_WC04
+line 136 - INFO: Start processing 201808140329_WC04
+line 180 - INFO: distance 94.3 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201808152156_WC04
+line 136 - INFO: Start processing 201808161822_WC04
+line 180 - INFO: distance 85.8 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201808171535_WC04
+line 180 - INFO: distance 105.0 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201808190410_WC04
+line 180 - INFO: distance 108.0 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201808190428_WC04
+line 180 - INFO: distance 44.1 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201807150157_WC04
+line 180 - INFO: distance 170.6 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201808191456_WC04
+line 180 - INFO: distance 107.9 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201811021101_WC04
+line 180 - INFO: distance 87.6 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201812201701_WC04
+line 136 - INFO: Start processing 201903231921_WC04
+line 136 - INFO: Start processing 201808220931_WC04
+line 180 - INFO: distance 50.2 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201808230335_WC04
+line 136 - INFO: Start processing 201808290351_WC04
+line 136 - INFO: Start processing 201809051807_WC04
+line 180 - INFO: distance 89.9 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201809070212_WC04
+line 136 - INFO: Start processing 201810101844_WC04
+line 180 - INFO: distance 110.2 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201810102045_WC04
+line 136 - INFO: Start processing 201810102048_WC04
+line 136 - INFO: Start processing 201810102200_WC04
+line 136 - INFO: Start processing 201810220539_WC04
+line 136 - INFO: Start processing 201810220616_WC04
+line 136 - INFO: Start processing 201810220622_WC04
+line 136 - INFO: Start processing 201810282223_WC04
+line 180 - INFO: distance 47.6 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201810290654_WC04
+line 136 - INFO: Start processing 201810300213_WC04
+line 136 - INFO: Start processing 201811012219_WC04
+line 136 - INFO: Start processing 201811040755_WC04
+line 180 - INFO: distance 102.7 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201811090149_WC04
+line 180 - INFO: distance 106.2 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201811100833_WC04
+line 180 - INFO: distance 41.0 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201811111403_WC04
+line 180 - INFO: distance 86.2 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201811182025_WC04
+line 180 - INFO: distance 45.1 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201811250340_WC04
+line 136 - INFO: Start processing 201811251637_WC04
+line 180 - INFO: distance 152.3 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201811301729_WC04
+line 136 - INFO: Start processing 201812011327_WC04
+line 180 - INFO: distance 96.2 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201812050414_WC04
+line 136 - INFO: Start processing 201812050418_WC04
+line 136 - INFO: Start processing 201812050643_WC04
+line 136 - INFO: Start processing 201812110226_WC04
+line 180 - INFO: distance 93.6 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201812121313_WC04
+line 180 - INFO: distance 49.2 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201812160942_WC04
+line 180 - INFO: distance 85.2 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201812190137_WC04
+line 180 - INFO: distance 42.2 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201812221425_WC04
+line 136 - INFO: Start processing 201812290339_WC04
+line 180 - INFO: distance 99.5 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201901051925_WC04
+line 136 - INFO: Start processing 201901081239_WC04
+line 180 - INFO: distance 97.4 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201901260351_WC04
+line 136 - INFO: Start processing 201902011614_WC04
+line 180 - INFO: distance 46.4 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201902121234_WC04
+line 136 - INFO: Start processing 201902141957_WC04
+line 180 - INFO: distance 100.3 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201902171435_WC04
+line 136 - INFO: Start processing 201902221017_WC04
+line 136 - INFO: Start processing 201903010850_WC04
+line 136 - INFO: Start processing 201903061546_WC04
+line 180 - INFO: distance 48.0 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201903081506_WC04
+line 180 - INFO: distance 100.8 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201903100812_WC04
+line 180 - INFO: distance 44.8 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201903101248_WC04
+line 136 - INFO: Start processing 201903150503_WC04
+line 136 - INFO: Start processing 201903240437_WC04
+line 180 - INFO: distance 99.6 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201903282206_WC04
+line 136 - INFO: Start processing 201903301120_WC04
+line 136 - INFO: Start processing 201903310704_WC04
+line 180 - INFO: distance 53.3 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201904011839_WC04
+line 180 - INFO: distance 148.8 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201904022135_WC04
+line 136 - INFO: Start processing 201904051614_WC04
+line 180 - INFO: distance 93.6 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201904062155_WC04
+line 180 - INFO: distance 99.9 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201904091753_WC04
+line 180 - INFO: distance 94.1 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201904110818_WC04
+line 180 - INFO: distance 88.6 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201904121140_WC04
+line 180 - INFO: distance 103.0 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201904121223_WC04
+line 180 - INFO: distance 38.9 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201904121451_WC04
+line 136 - INFO: Start processing 201904180501_WC04
+line 180 - INFO: distance 105.6 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201904181446_WC04
+line 136 - INFO: Start processing 201904220911_WC04
+line 180 - INFO: distance 106.5 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201904221449_WC04
+line 180 - INFO: distance 93.8 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201904231420_WC04
+line 180 - INFO: distance 46.4 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201805020632_WC04
+line 180 - INFO: distance 27.9 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201805042232_WC04
+line 180 - INFO: distance 32.9 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201805050619_WC04
+line 180 - INFO: distance 103.1 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201805090757_WC04
+/home/lun/Desktop/software/anaconda2/lib/python2.7/site-packages/obspy/taup/tau_branch.py:496: UserWarning: Resizing a TauP array inplace failed due to the existence of other references to the array, creating a new array. See Obspy #2280.
+  warnings.warn(msg)
+line 136 - INFO: Start processing 201805091041_WC04
+line 180 - INFO: distance 141.8 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201805180145_WC04
+line 180 - INFO: distance 49.4 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201806212113_WC04
+line 136 - INFO: Start processing 201807060140_WC04
+line 136 - INFO: Start processing 201807072133_WC04
+line 180 - INFO: distance 47.6 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201807130946_WC04
+line 136 - INFO: Start processing 201807151309_WC04
+line 180 - INFO: distance 170.7 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201807170702_WC04
+line 136 - INFO: Start processing 201807191830_WC04
+line 136 - INFO: Start processing 201807231035_WC04
+line 180 - INFO: distance 114.7 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201807281707_WC04
+line 180 - INFO: distance 102.1 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201807282247_WC04
+line 180 - INFO: distance 108.1 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201808051146_WC04
+line 180 - INFO: distance 108.1 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201808101812_WC04
+line 136 - INFO: Start processing 201808121458_WC04
+line 136 - INFO: Start processing 201808122115_WC04
+line 136 - INFO: Start processing 201808140329_WC04
+line 180 - INFO: distance 94.3 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201808152156_WC04
+line 136 - INFO: Start processing 201808161822_WC04
+line 180 - INFO: distance 85.8 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201808171535_WC04
+line 180 - INFO: distance 105.0 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201808190410_WC04
+line 180 - INFO: distance 108.0 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201808190428_WC04
+line 180 - INFO: distance 44.1 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201807150157_WC04
+line 180 - INFO: distance 170.6 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201808191456_WC04
+line 180 - INFO: distance 107.9 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201811021101_WC04
+line 180 - INFO: distance 87.6 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201812201701_WC04
+line 136 - INFO: Start processing 201903231921_WC04
+line 136 - INFO: Start processing 201808220931_WC04
+line 180 - INFO: distance 50.2 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201808230335_WC04
+line 136 - INFO: Start processing 201808290351_WC04
+line 136 - INFO: Start processing 201809051807_WC04
+line 180 - INFO: distance 89.9 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201809070212_WC04
+line 136 - INFO: Start processing 201810101844_WC04
+line 180 - INFO: distance 110.2 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201810102045_WC04
+line 136 - INFO: Start processing 201810102048_WC04
+line 136 - INFO: Start processing 201810102200_WC04
+line 136 - INFO: Start processing 201810220539_WC04
+line 136 - INFO: Start processing 201810220616_WC04
+line 136 - INFO: Start processing 201810220622_WC04
+line 136 - INFO: Start processing 201810282223_WC04
+line 180 - INFO: distance 47.6 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201810290654_WC04
+line 136 - INFO: Start processing 201810300213_WC04
+line 136 - INFO: Start processing 201811012219_WC04
+line 136 - INFO: Start processing 201811040755_WC04
+line 180 - INFO: distance 102.7 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201811090149_WC04
+line 180 - INFO: distance 106.2 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201811100833_WC04
+line 180 - INFO: distance 41.0 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201811111403_WC04
+line 180 - INFO: distance 86.2 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201811182025_WC04
+line 180 - INFO: distance 45.1 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201811250340_WC04
+line 136 - INFO: Start processing 201811251637_WC04
+line 180 - INFO: distance 152.3 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201811301729_WC04
+line 136 - INFO: Start processing 201812011327_WC04
+line 180 - INFO: distance 96.2 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201812050414_WC04
+line 136 - INFO: Start processing 201812050418_WC04
+line 136 - INFO: Start processing 201812050643_WC04
+line 136 - INFO: Start processing 201812110226_WC04
+line 180 - INFO: distance 93.6 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201812121313_WC04
+line 180 - INFO: distance 49.2 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201812160942_WC04
+line 180 - INFO: distance 85.2 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201812190137_WC04
+line 180 - INFO: distance 42.2 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201812221425_WC04
+line 136 - INFO: Start processing 201812290339_WC04
+line 180 - INFO: distance 99.5 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201901051925_WC04
+line 136 - INFO: Start processing 201901081239_WC04
+line 180 - INFO: distance 97.4 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201901260351_WC04
+line 136 - INFO: Start processing 201902011614_WC04
+line 180 - INFO: distance 46.4 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201902121234_WC04
+line 136 - INFO: Start processing 201902141957_WC04
+line 180 - INFO: distance 100.3 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201902171435_WC04
+line 136 - INFO: Start processing 201902221017_WC04
+line 136 - INFO: Start processing 201903010850_WC04
+line 136 - INFO: Start processing 201903061546_WC04
+line 180 - INFO: distance 48.0 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201903081506_WC04
+line 180 - INFO: distance 100.8 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201903100812_WC04
+line 180 - INFO: distance 44.8 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201903101248_WC04
+line 136 - INFO: Start processing 201903150503_WC04
+line 136 - INFO: Start processing 201903240437_WC04
+line 180 - INFO: distance 99.6 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201903282206_WC04
+line 136 - INFO: Start processing 201903301120_WC04
+line 136 - INFO: Start processing 201903310704_WC04
+line 180 - INFO: distance 53.3 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201904011839_WC04
+line 180 - INFO: distance 148.8 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201904022135_WC04
+line 136 - INFO: Start processing 201904051614_WC04
+line 180 - INFO: distance 93.6 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201904062155_WC04
+line 180 - INFO: distance 99.9 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201904091753_WC04
+line 180 - INFO: distance 94.1 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201904110818_WC04
+line 180 - INFO: distance 88.6 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201904121140_WC04
+line 180 - INFO: distance 103.0 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201904121223_WC04
+line 180 - INFO: distance 38.9 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201904121451_WC04
+line 136 - INFO: Start processing 201904180501_WC04
+line 180 - INFO: distance 105.6 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201904181446_WC04
+line 136 - INFO: Start processing 201904220911_WC04
+line 180 - INFO: distance 106.5 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201904221449_WC04
+line 180 - INFO: distance 93.8 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201904231420_WC04
+line 180 - INFO: distance 46.4 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201805020632_WC04
+line 180 - INFO: distance 27.9 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201805042232_WC04
+line 180 - INFO: distance 32.9 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201805050619_WC04
+line 180 - INFO: distance 103.1 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201805090757_WC04
+/home/lun/Desktop/software/anaconda2/lib/python2.7/site-packages/obspy/taup/tau_branch.py:496: UserWarning: Resizing a TauP array inplace failed due to the existence of other references to the array, creating a new array. See Obspy #2280.
+  warnings.warn(msg)
+line 136 - INFO: Start processing 201805091041_WC04
+line 180 - INFO: distance 141.8 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201805180145_WC04
+line 180 - INFO: distance 49.4 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201806212113_WC04
+line 136 - INFO: Start processing 201807060140_WC04
+line 136 - INFO: Start processing 201807072133_WC04
+line 180 - INFO: distance 47.6 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201807130946_WC04
+line 136 - INFO: Start processing 201807151309_WC04
+line 180 - INFO: distance 170.7 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201807170702_WC04
+line 136 - INFO: Start processing 201807191830_WC04
+line 136 - INFO: Start processing 201807231035_WC04
+line 180 - INFO: distance 114.7 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201807281707_WC04
+line 180 - INFO: distance 102.1 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201807282247_WC04
+line 180 - INFO: distance 108.1 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201808051146_WC04
+line 180 - INFO: distance 108.1 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201808101812_WC04
+line 136 - INFO: Start processing 201808121458_WC04
+line 136 - INFO: Start processing 201808122115_WC04
+line 136 - INFO: Start processing 201808140329_WC04
+line 180 - INFO: distance 94.3 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201808152156_WC04
+line 136 - INFO: Start processing 201808161822_WC04
+line 180 - INFO: distance 85.8 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201808171535_WC04
+line 180 - INFO: distance 105.0 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201808190410_WC04
+line 180 - INFO: distance 108.0 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201808190428_WC04
+line 180 - INFO: distance 44.1 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201807150157_WC04
+line 180 - INFO: distance 170.6 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201808191456_WC04
+line 180 - INFO: distance 107.9 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201811021101_WC04
+line 180 - INFO: distance 87.6 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201812201701_WC04
+line 136 - INFO: Start processing 201903231921_WC04
+line 136 - INFO: Start processing 201808220931_WC04
+line 180 - INFO: distance 50.2 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201808230335_WC04
+line 136 - INFO: Start processing 201808290351_WC04
+line 136 - INFO: Start processing 201809051807_WC04
+line 180 - INFO: distance 89.9 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201809070212_WC04
+line 136 - INFO: Start processing 201810101844_WC04
+line 180 - INFO: distance 110.2 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201810102045_WC04
+line 136 - INFO: Start processing 201810102048_WC04
+line 136 - INFO: Start processing 201810102200_WC04
+line 136 - INFO: Start processing 201810220539_WC04
+line 136 - INFO: Start processing 201810220616_WC04
+line 136 - INFO: Start processing 201810220622_WC04
+line 136 - INFO: Start processing 201810282223_WC04
+line 180 - INFO: distance 47.6 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201810290654_WC04
+line 136 - INFO: Start processing 201810300213_WC04
+line 136 - INFO: Start processing 201811012219_WC04
+line 136 - INFO: Start processing 201811040755_WC04
+line 180 - INFO: distance 102.7 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201811090149_WC04
+line 180 - INFO: distance 106.2 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201811100833_WC04
+line 180 - INFO: distance 41.0 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201811111403_WC04
+line 180 - INFO: distance 86.2 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201811182025_WC04
+line 180 - INFO: distance 45.1 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201811250340_WC04
+line 136 - INFO: Start processing 201811251637_WC04
+line 180 - INFO: distance 152.3 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201811301729_WC04
+line 136 - INFO: Start processing 201812011327_WC04
+line 180 - INFO: distance 96.2 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201812050414_WC04
+line 136 - INFO: Start processing 201812050418_WC04
+line 136 - INFO: Start processing 201812050643_WC04
+line 136 - INFO: Start processing 201812110226_WC04
+line 180 - INFO: distance 93.6 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201812121313_WC04
+line 180 - INFO: distance 49.2 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201812160942_WC04
+line 180 - INFO: distance 85.2 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201812190137_WC04
+line 180 - INFO: distance 42.2 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201812221425_WC04
+line 136 - INFO: Start processing 201812290339_WC04
+line 180 - INFO: distance 99.5 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201901051925_WC04
+line 136 - INFO: Start processing 201901081239_WC04
+line 180 - INFO: distance 97.4 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201901260351_WC04
+line 136 - INFO: Start processing 201902011614_WC04
+line 180 - INFO: distance 46.4 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201902121234_WC04
+line 136 - INFO: Start processing 201902141957_WC04
+line 180 - INFO: distance 100.3 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201902171435_WC04
+line 136 - INFO: Start processing 201902221017_WC04
+line 136 - INFO: Start processing 201903010850_WC04
+line 136 - INFO: Start processing 201903061546_WC04
+line 180 - INFO: distance 48.0 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201903081506_WC04
+line 180 - INFO: distance 100.8 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201903100812_WC04
+line 180 - INFO: distance 44.8 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201903101248_WC04
+line 136 - INFO: Start processing 201903150503_WC04
+line 136 - INFO: Start processing 201903240437_WC04
+line 180 - INFO: distance 99.6 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201903282206_WC04
+line 136 - INFO: Start processing 201903301120_WC04
+line 136 - INFO: Start processing 201903310704_WC04
+line 180 - INFO: distance 53.3 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201904011839_WC04
+line 180 - INFO: distance 148.8 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201904022135_WC04
+line 136 - INFO: Start processing 201904051614_WC04
+line 180 - INFO: distance 93.6 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201904062155_WC04
+line 180 - INFO: distance 99.9 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201904091753_WC04
+line 180 - INFO: distance 94.1 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201904110818_WC04
+line 180 - INFO: distance 88.6 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201904121140_WC04
+line 180 - INFO: distance 103.0 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201904121223_WC04
+line 180 - INFO: distance 38.9 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201904121451_WC04
+line 136 - INFO: Start processing 201904180501_WC04
+line 180 - INFO: distance 105.6 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201904181446_WC04
+line 136 - INFO: Start processing 201904220911_WC04
+line 180 - INFO: distance 106.5 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201904221449_WC04
+line 180 - INFO: distance 93.8 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201904231420_WC04
+line 180 - INFO: distance 46.4 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201805020632_WC04
+line 180 - INFO: distance 27.9 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201805042232_WC04
+line 180 - INFO: distance 32.9 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201805050619_WC04
+line 180 - INFO: distance 103.1 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201805090757_WC04
+/home/lun/Desktop/software/anaconda2/lib/python2.7/site-packages/obspy/taup/tau_branch.py:496: UserWarning: Resizing a TauP array inplace failed due to the existence of other references to the array, creating a new array. See Obspy #2280.
+  warnings.warn(msg)
+line 136 - INFO: Start processing 201805091041_WC04
+line 180 - INFO: distance 141.8 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201805180145_WC04
+line 180 - INFO: distance 49.4 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201806212113_WC04
+line 136 - INFO: Start processing 201807060140_WC04
+line 136 - INFO: Start processing 201807072133_WC04
+line 180 - INFO: distance 47.6 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201807130946_WC04
+line 136 - INFO: Start processing 201807151309_WC04
+line 180 - INFO: distance 170.7 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201807170702_WC04
+line 136 - INFO: Start processing 201807191830_WC04
+line 136 - INFO: Start processing 201807231035_WC04
+line 180 - INFO: distance 114.7 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201807281707_WC04
+line 180 - INFO: distance 102.1 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201807282247_WC04
+line 180 - INFO: distance 108.1 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201808051146_WC04
+line 180 - INFO: distance 108.1 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201808101812_WC04
+line 136 - INFO: Start processing 201808121458_WC04
+line 136 - INFO: Start processing 201808122115_WC04
+line 136 - INFO: Start processing 201808140329_WC04
+line 180 - INFO: distance 94.3 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201808152156_WC04
+line 136 - INFO: Start processing 201808161822_WC04
+line 180 - INFO: distance 85.8 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201808171535_WC04
+line 180 - INFO: distance 105.0 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201808190410_WC04
+line 180 - INFO: distance 108.0 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201808190428_WC04
+line 180 - INFO: distance 44.1 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201807150157_WC04
+line 180 - INFO: distance 170.6 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201808191456_WC04
+line 180 - INFO: distance 107.9 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201811021101_WC04
+line 180 - INFO: distance 87.6 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201812201701_WC04
+line 136 - INFO: Start processing 201903231921_WC04
+line 136 - INFO: Start processing 201808220931_WC04
+line 180 - INFO: distance 50.2 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201808230335_WC04
+line 136 - INFO: Start processing 201808290351_WC04
+line 136 - INFO: Start processing 201809051807_WC04
+line 180 - INFO: distance 89.9 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201809070212_WC04
+line 136 - INFO: Start processing 201810101844_WC04
+line 180 - INFO: distance 110.2 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201810102045_WC04
+line 136 - INFO: Start processing 201810102048_WC04
+line 136 - INFO: Start processing 201810102200_WC04
+line 136 - INFO: Start processing 201810220539_WC04
+line 136 - INFO: Start processing 201810220616_WC04
+line 136 - INFO: Start processing 201810220622_WC04
+line 136 - INFO: Start processing 201810282223_WC04
+line 180 - INFO: distance 47.6 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201810290654_WC04
+line 136 - INFO: Start processing 201810300213_WC04
+line 136 - INFO: Start processing 201811012219_WC04
+line 136 - INFO: Start processing 201811040755_WC04
+line 180 - INFO: distance 102.7 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201811090149_WC04
+line 180 - INFO: distance 106.2 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201811100833_WC04
+line 180 - INFO: distance 41.0 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201811111403_WC04
+line 180 - INFO: distance 86.2 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201811182025_WC04
+line 180 - INFO: distance 45.1 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201811250340_WC04
+line 136 - INFO: Start processing 201811251637_WC04
+line 180 - INFO: distance 152.3 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201811301729_WC04
+line 136 - INFO: Start processing 201812011327_WC04
+line 180 - INFO: distance 96.2 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201812050414_WC04
+line 136 - INFO: Start processing 201812050418_WC04
+line 136 - INFO: Start processing 201812050643_WC04
+line 136 - INFO: Start processing 201812110226_WC04
+line 180 - INFO: distance 93.6 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201812121313_WC04
+line 180 - INFO: distance 49.2 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201812160942_WC04
+line 180 - INFO: distance 85.2 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201812190137_WC04
+line 180 - INFO: distance 42.2 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201812221425_WC04
+line 136 - INFO: Start processing 201812290339_WC04
+line 180 - INFO: distance 99.5 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201901051925_WC04
+line 136 - INFO: Start processing 201901081239_WC04
+line 180 - INFO: distance 97.4 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201901260351_WC04
+line 136 - INFO: Start processing 201902011614_WC04
+line 180 - INFO: distance 46.4 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201902121234_WC04
+line 136 - INFO: Start processing 201902141957_WC04
+line 180 - INFO: distance 100.3 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201902171435_WC04
+line 136 - INFO: Start processing 201902221017_WC04
+line 136 - INFO: Start processing 201903010850_WC04
+line 136 - INFO: Start processing 201903061546_WC04
+line 180 - INFO: distance 48.0 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201903081506_WC04
+line 180 - INFO: distance 100.8 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201903100812_WC04
+line 180 - INFO: distance 44.8 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201903101248_WC04
+line 136 - INFO: Start processing 201903150503_WC04
+line 136 - INFO: Start processing 201903240437_WC04
+line 180 - INFO: distance 99.6 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201903282206_WC04
+line 136 - INFO: Start processing 201903301120_WC04
+line 136 - INFO: Start processing 201903310704_WC04
+line 180 - INFO: distance 53.3 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201904011839_WC04
+line 180 - INFO: distance 148.8 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201904022135_WC04
+line 136 - INFO: Start processing 201904051614_WC04
+line 180 - INFO: distance 93.6 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201904062155_WC04
+line 180 - INFO: distance 99.9 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201904091753_WC04
+line 180 - INFO: distance 94.1 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201904110818_WC04
+line 180 - INFO: distance 88.6 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201904121140_WC04
+line 180 - INFO: distance 103.0 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201904121223_WC04
+line 180 - INFO: distance 38.9 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201904121451_WC04
+line 136 - INFO: Start processing 201904180501_WC04
+line 180 - INFO: distance 105.6 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201904181446_WC04
+line 136 - INFO: Start processing 201904220911_WC04
+line 180 - INFO: distance 106.5 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201904221449_WC04
+line 180 - INFO: distance 93.8 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201904231420_WC04
+line 180 - INFO: distance 46.4 is not within range (55.0,85.0), continue
+Traceback (most recent call last):
+  File "RFcal.py", line 58, in <module>
+    event_path = config.get('path','event_path')
+  File "/home/lun/Desktop/software/anaconda2/lib/python2.7/site-packages/backports/configparser/__init__.py", line 858, in get
+    d = self._unify_values(section, vars)
+  File "/home/lun/Desktop/software/anaconda2/lib/python2.7/site-packages/backports/configparser/__init__.py", line 1228, in _unify_values
+    raise NoSectionError(section)
+backports.configparser.NoSectionError: No section: 'path'
+Traceback (most recent call last):
+  File "RFcal.py", line 58, in <module>
+    event_path = config.get('path','event_path')
+  File "/home/lun/Desktop/software/anaconda2/lib/python2.7/site-packages/backports/configparser/__init__.py", line 858, in get
+    d = self._unify_values(section, vars)
+  File "/home/lun/Desktop/software/anaconda2/lib/python2.7/site-packages/backports/configparser/__init__.py", line 1228, in _unify_values
+    raise NoSectionError(section)
+backports.configparser.NoSectionError: No section: 'path'
+Traceback (most recent call last):
+  File "RFcal.py", line 58, in <module>
+    event_path = config.get('path','event_path')
+  File "/home/lun/Desktop/software/anaconda2/lib/python2.7/site-packages/backports/configparser/__init__.py", line 858, in get
+    d = self._unify_values(section, vars)
+  File "/home/lun/Desktop/software/anaconda2/lib/python2.7/site-packages/backports/configparser/__init__.py", line 1228, in _unify_values
+    raise NoSectionError(section)
+backports.configparser.NoSectionError: No section: 'path'
+line 136 - INFO: Start processing 201805020632_WC04
+line 180 - INFO: distance 27.9 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201805042232_WC04
+line 180 - INFO: distance 32.9 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201805050619_WC04
+line 180 - INFO: distance 103.1 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201805090757_WC04
+/home/lun/Desktop/software/anaconda2/lib/python2.7/site-packages/obspy/taup/tau_branch.py:496: UserWarning: Resizing a TauP array inplace failed due to the existence of other references to the array, creating a new array. See Obspy #2280.
+  warnings.warn(msg)
+line 243 - INFO: snr not high enough, continue
+line 136 - INFO: Start processing 201805091041_WC04
+line 180 - INFO: distance 141.8 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201805180145_WC04
+line 180 - INFO: distance 49.4 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201806212113_WC04
+line 243 - INFO: snr not high enough, continue
+line 136 - INFO: Start processing 201807060140_WC04
+line 243 - INFO: snr not high enough, continue
+line 136 - INFO: Start processing 201807072133_WC04
+line 180 - INFO: distance 47.6 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201807130946_WC04
+line 243 - INFO: snr not high enough, continue
+line 136 - INFO: Start processing 201807151309_WC04
+line 180 - INFO: distance 170.7 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201807170702_WC04
+line 243 - INFO: snr not high enough, continue
+line 136 - INFO: Start processing 201807191830_WC04
+line 243 - INFO: snr not high enough, continue
+line 136 - INFO: Start processing 201807231035_WC04
+line 180 - INFO: distance 114.7 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201807281707_WC04
+line 180 - INFO: distance 102.1 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201807282247_WC04
+line 180 - INFO: distance 108.1 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201808051146_WC04
+line 180 - INFO: distance 108.1 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201808101812_WC04
+line 243 - INFO: snr not high enough, continue
+line 136 - INFO: Start processing 201808121458_WC04
+line 243 - INFO: snr not high enough, continue
+line 136 - INFO: Start processing 201808122115_WC04
+line 243 - INFO: snr not high enough, continue
+line 136 - INFO: Start processing 201808140329_WC04
+line 180 - INFO: distance 94.3 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201808152156_WC04
+line 136 - INFO: Start processing 201808161822_WC04
+line 180 - INFO: distance 85.8 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201808171535_WC04
+line 180 - INFO: distance 105.0 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201808190410_WC04
+line 180 - INFO: distance 108.0 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201808190428_WC04
+line 180 - INFO: distance 44.1 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201807150157_WC04
+line 180 - INFO: distance 170.6 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201808191456_WC04
+line 180 - INFO: distance 107.9 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201811021101_WC04
+line 180 - INFO: distance 87.6 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201812201701_WC04
+line 136 - INFO: Start processing 201903231921_WC04
+line 243 - INFO: snr not high enough, continue
+line 136 - INFO: Start processing 201808220931_WC04
+line 180 - INFO: distance 50.2 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201808230335_WC04
+line 243 - INFO: snr not high enough, continue
+line 136 - INFO: Start processing 201808290351_WC04
+line 136 - INFO: Start processing 201809051807_WC04
+line 180 - INFO: distance 89.9 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201809070212_WC04
+line 243 - INFO: snr not high enough, continue
+line 136 - INFO: Start processing 201810101844_WC04
+line 180 - INFO: distance 110.2 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201810102045_WC04
+line 243 - INFO: snr not high enough, continue
+line 136 - INFO: Start processing 201810102048_WC04
+line 243 - INFO: snr not high enough, continue
+line 136 - INFO: Start processing 201810102200_WC04
+line 243 - INFO: snr not high enough, continue
+line 136 - INFO: Start processing 201810220539_WC04
+line 243 - INFO: snr not high enough, continue
+line 136 - INFO: Start processing 201810220616_WC04
+line 243 - INFO: snr not high enough, continue
+line 136 - INFO: Start processing 201810220622_WC04
+line 243 - INFO: snr not high enough, continue
+line 136 - INFO: Start processing 201810282223_WC04
+line 180 - INFO: distance 47.6 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201810290654_WC04
+line 243 - INFO: snr not high enough, continue
+line 136 - INFO: Start processing 201810300213_WC04
+line 136 - INFO: Start processing 201811012219_WC04
+line 243 - INFO: snr not high enough, continue
+line 136 - INFO: Start processing 201811040755_WC04
+line 180 - INFO: distance 102.7 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201811090149_WC04
+line 180 - INFO: distance 106.2 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201811100833_WC04
+line 180 - INFO: distance 41.0 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201811111403_WC04
+line 180 - INFO: distance 86.2 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201811182025_WC04
+line 180 - INFO: distance 45.1 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201811250340_WC04
+line 243 - INFO: snr not high enough, continue
+line 136 - INFO: Start processing 201811251637_WC04
+line 180 - INFO: distance 152.3 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201811301729_WC04
+line 136 - INFO: Start processing 201812011327_WC04
+line 180 - INFO: distance 96.2 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201812050414_WC04
+line 243 - INFO: snr not high enough, continue
+line 136 - INFO: Start processing 201812050418_WC04
+line 243 - INFO: snr not high enough, continue
+line 136 - INFO: Start processing 201812050643_WC04
+line 243 - INFO: snr not high enough, continue
+line 136 - INFO: Start processing 201812110226_WC04
+line 180 - INFO: distance 93.6 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201812121313_WC04
+line 180 - INFO: distance 49.2 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201812160942_WC04
+line 180 - INFO: distance 85.2 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201812190137_WC04
+line 180 - INFO: distance 42.2 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201812221425_WC04
+line 243 - INFO: snr not high enough, continue
+line 136 - INFO: Start processing 201812290339_WC04
+line 180 - INFO: distance 99.5 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201901051925_WC04
+line 136 - INFO: Start processing 201901081239_WC04
+line 180 - INFO: distance 97.4 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201901260351_WC04
+line 243 - INFO: snr not high enough, continue
+line 136 - INFO: Start processing 201902011614_WC04
+line 180 - INFO: distance 46.4 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201902121234_WC04
+line 243 - INFO: snr not high enough, continue
+line 136 - INFO: Start processing 201902141957_WC04
+line 180 - INFO: distance 100.3 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201902171435_WC04
+line 243 - INFO: snr not high enough, continue
+line 136 - INFO: Start processing 201902221017_WC04
+line 136 - INFO: Start processing 201903010850_WC04
+line 243 - INFO: snr not high enough, continue
+line 136 - INFO: Start processing 201903061546_WC04
+line 180 - INFO: distance 48.0 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201903081506_WC04
+line 180 - INFO: distance 100.8 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201903100812_WC04
+line 180 - INFO: distance 44.8 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201903101248_WC04
+line 243 - INFO: snr not high enough, continue
+line 136 - INFO: Start processing 201903150503_WC04
+line 243 - INFO: snr not high enough, continue
+line 136 - INFO: Start processing 201903240437_WC04
+line 180 - INFO: distance 99.6 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201903282206_WC04
+line 243 - INFO: snr not high enough, continue
+line 136 - INFO: Start processing 201903301120_WC04
+line 243 - INFO: snr not high enough, continue
+line 136 - INFO: Start processing 201903310704_WC04
+line 180 - INFO: distance 53.3 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201904011839_WC04
+line 180 - INFO: distance 148.8 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201904022135_WC04
+line 243 - INFO: snr not high enough, continue
+line 136 - INFO: Start processing 201904051614_WC04
+line 180 - INFO: distance 93.6 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201904062155_WC04
+line 180 - INFO: distance 99.9 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201904091753_WC04
+line 180 - INFO: distance 94.1 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201904110818_WC04
+line 180 - INFO: distance 88.6 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201904121140_WC04
+line 180 - INFO: distance 103.0 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201904121223_WC04
+line 180 - INFO: distance 38.9 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201904121451_WC04
+line 243 - INFO: snr not high enough, continue
+line 136 - INFO: Start processing 201904180501_WC04
+line 180 - INFO: distance 105.6 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201904181446_WC04
+line 243 - INFO: snr not high enough, continue
+line 136 - INFO: Start processing 201904220911_WC04
+line 180 - INFO: distance 106.5 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201904221449_WC04
+line 180 - INFO: distance 93.8 is not within range (55.0,85.0), continue
+line 136 - INFO: Start processing 201904231420_WC04
+line 180 - INFO: distance 46.4 is not within range (55.0,85.0), continue

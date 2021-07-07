@@ -1,0 +1,45 @@
+#!/bin/csh
+set xdir=../bin
+#ANGL is the incidence angle from vertical
+set ANGL=20
+#AZM is the clockwise horizontal azimuth from the 1-axis of the elastic
+# coefficients
+#foreach AZM ( 0 5 10 15 20 25 30 35 40 45 50 55 60 65 70 75 80 85 90 )
+#foreach AZM ( 45 )
+set AZM = 0
+while ( $AZM <= 90)
+echo $AZM
+#
+$xdir/synth <<!
+manylay.data
+synth.out
+synth.out1
+synth.out2
+synth.in
+$ANGL
+1
+0.
+$AZM
+!
+#
+echo "Done propagation, now convolving source"
+#
+$xdir/sourc1 <<!
+test.$AZM.$ANGL
+synth.out1
+synth.out2
+1 0 0
+5.
+0.
+2
+!
+#
+echo "Done source convolution, now writing to sac"
+./saccpt <<!
+test.$AZM.$ANGL
+0
+!
+
+@ AZM++
+end
+#echo OK

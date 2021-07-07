@@ -1,0 +1,13 @@
+[Hkpara]
+station = EE04
+Vp = 6.00
+Hlimit[km] = 10.0-30.0
+klimit = 1.50-2.00
+H_search_range[km] = 15.0-25.0
+k_search_range = 1.65-1.85
+Phase_weight = 0.70,0.20,0.10
+[Result]
+H = 18.3
+k = 1.71
+Hstd = 0.29
+kstd = 0.02

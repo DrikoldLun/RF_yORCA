@@ -1,0 +1,49 @@
+# Makefile for PropMatrix program
+# NO parallelisation implemented in the compilation
+
+#F77 = f77
+F77 = gfortran
+FFLAGS = -g
+SACLIBRARY = /usr/local/sac/lib/libsac.a
+BINDIR = ../bin
+	
+
+#------------------------
+synth:		synth.o synth.sub.o
+		-rm $(BINDIR)/synth
+		$(F77) -o $(BINDIR)/synth synth.o synth.sub.o
+
+synth.o:	synth.f
+		$(F77) -g -c -w synth.f
+
+synth.sub.o:	synth.sub.f
+		$(F77) -g -c -w synth.sub.f
+
+#------------------------
+sourc1:		sourc1.o fork.fold.o
+		-rm $(BINDIR)/sourc1
+		$(F77) -o $(BINDIR)/sourc1 sourc1.o fork.fold.o
+
+sourc1.o:	sourc1.f
+		$(F77) -g -c -w sourc1.f
+
+#------------------------
+sourc1.gauss:	sourc1.gauss.o sourc1.gauss.o fork.fold.o
+		-rm $(BINDIR)/sourc1_gauss
+		$(F77) -o $(BINDIR)/sourc1_gauss sourc1.gauss.o fork.fold.o
+
+sourc1.gauss.o:	sourc1.gauss.f
+		$(F77) -g -c -w sourc1.gauss.f
+
+#------------------------
+fork.fold.o:	fork.fold.f
+		$(F77) -g -c -w fork.fold.f
+
+#------------------------
+saccpt:	saccpt.f	
+		$(F77) $(FFLAGS) -o $(BINDIR)/saccpt saccpt.f $(SACLIBRARY) -ldl
+
+#------------------------
+clean:
+	rm *.o
+
